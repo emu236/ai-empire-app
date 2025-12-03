@@ -1,0 +1,16 @@
+streamlit
+openai
+python-dotenv
+stripe
+bcrypt
+requests
+matplotlib
+pandas
+pydub
+duckduckgo-search
+google-generativeai
+Pillow
+fpdf
+reportlab
+beautifulsoup4
+youtube-transcript-api
